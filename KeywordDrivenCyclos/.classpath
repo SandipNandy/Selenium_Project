@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/poi-3.15/Apache POI All Jar Files/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/poi-3.15/Apache POI All Jar Files/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/poi-3.15/Apache POI All Jar Files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/poi-3.15/Apache POI All Jar Files/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/poi-3.15/Apache POI All Jar Files/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/poi-3.15/Apache POI All Jar Files/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/poi-3.15/Apache POI All Jar Files/poi-examples-3.15.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/poi-3.15/Apache POI All Jar Files/poi-excelant-3.15.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/poi-3.15/Apache POI All Jar Files/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/poi-3.15/Apache POI All Jar Files/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/poi-3.15/Apache POI All Jar Files/poi-scratchpad-3.15.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/poi-3.15/Apache POI All Jar Files/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/Selenium Jar/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/Selenium Jar/lib/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/Selenium Jar/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/Selenium Jar/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/Selenium Jar/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/Selenium Jar/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/Selenium Jar/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/Selenium Jar/lib/cssparser-0.9.20.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/Selenium Jar/lib/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/Selenium Jar/lib/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/Selenium Jar/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/Selenium Jar/lib/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/Selenium Jar/lib/htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/Selenium Jar/lib/htmlunit-core-js-2.23.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/Selenium Jar/lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/Selenium Jar/lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/Selenium Jar/lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/Selenium Jar/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/Selenium Jar/lib/jetty-io-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/Selenium Jar/lib/jetty-util-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/Selenium Jar/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/Selenium Jar/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/Selenium Jar/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/Selenium Jar/lib/neko-htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/Selenium Jar/lib/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/Selenium Jar/lib/phantomjsdriver-1.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/Selenium Jar/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/Selenium Jar/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/Selenium Jar/lib/websocket-api-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/Selenium Jar/lib/websocket-client-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/Selenium Jar/lib/websocket-common-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/Selenium Jar/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/Selenium Jar/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/Softwares Required For Testing Batch/Testing Softwares/selenium jar/Selenium Jar/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
