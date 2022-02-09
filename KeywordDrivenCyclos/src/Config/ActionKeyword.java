@@ -13,7 +13,7 @@ public class ActionKeyword {
 	 
 	 public static void openBrowser(){ 
 		 
-		 System.setProperty("webdriver.chrome.driver", "E:\\Softwares Required For Testing Batch\\chromedriver_win32\\chromedriver.exe");
+		 System.setProperty("webdriver.chrome.driver", ".\\Softwares Required For Testing Batch\\chromedriver_win32\\chromedriver.exe");
 	     driver=new ChromeDriver();
 	     driver.manage().window().maximize();
 	 }
