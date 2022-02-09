@@ -7,7 +7,7 @@ public class DriverScripts {
 	
 	 public static void main(String[] args) throws Exception {
 	     // Declaring the path of the Excel file with the name of the Excel file
-	     String sPath = "E://New folder (3)//KeywordDrivenCyclos//src//dataEngine//DataEngine.xlsx";
+	     String sPath = "..//KeywordDrivenCyclos//src//dataEngine//DataEngine.xlsx";
 	 
 	     // Here we are passing the Excel path and SheetName as arguments to connect with Excel file 
 	     ExcelUtils.setExcelFile(sPath, "Sheet1");
