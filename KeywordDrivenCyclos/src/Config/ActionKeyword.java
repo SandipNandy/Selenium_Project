@@ -25,6 +25,7 @@ public class ActionKeyword {
 	 
 	 public static void navigate(){ 
 	 driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		 
 	 driver.get("http://localhost:8585/do/login");
 	 }
 	 
