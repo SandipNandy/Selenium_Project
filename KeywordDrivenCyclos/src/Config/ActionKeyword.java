@@ -25,7 +25,6 @@ public class ActionKeyword {
 	 }
 	 */
 	 public static void click_Admin(){
-		 
 	 driver.findElement(By.id("cyclosUsername")).sendKeys("admin");}
 	 
 	 public static void click_Password(){
