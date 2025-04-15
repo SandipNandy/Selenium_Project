@@ -34,6 +34,7 @@ public class ExcelUtils {
   public static String getCellData(int RowNum, int ColNum) throws Exception{
 	  
   	  Cell = ExcelWSheet.getRow(RowNum).getCell(ColNum);
+	  
         String CellData = Cell.getStringCellValue();
         return CellData;
    }
