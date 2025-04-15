@@ -25,6 +25,7 @@ public class DriverScripts {
 	                        //This will execute if the excel cell value is 'openBrowser'
 	     //Action Keyword is called here to perform action
 	     ActionKeyword.openBrowser();}
+		     
 	     else if(sActionKeyword.equals("navigate")){
 	     ActionKeyword.navigate();}
 	     /*else if(sActionKeyword.equals("click_MyAccount")){
