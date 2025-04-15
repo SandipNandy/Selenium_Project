@@ -24,6 +24,7 @@ public class ExcelUtils {
        FileInputStream ExcelFile = new FileInputStream(Path);
 	  
        ExcelWBook = new XSSFWorkbook(ExcelFile);
+	  
        ExcelWSheet = ExcelWBook.getSheet(SheetName);
          }
 
