@@ -30,6 +30,7 @@ public class ExcelUtils {
 
   //This method is to read the test data from the Excel cell
   //In this we are passing parameters/arguments as Row Num and Col Num
+	
   public static String getCellData(int RowNum, int ColNum) throws Exception{
   	  Cell = ExcelWSheet.getRow(RowNum).getCell(ColNum);
         String CellData = Cell.getStringCellValue();
