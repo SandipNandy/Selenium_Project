@@ -8,6 +8,7 @@ import org.testng.Assert;
 
 public class ActionKeyword {
 	public static WebDriver driver;
+	
 	 public static void openBrowser(){ 
 	     System.setProperty("webdriver.chrome.driver", ".\\Softwares Required For Testing Batch\\chromedriver_win32\\chromedriver.exe");
 	     driver=new ChromeDriver();
